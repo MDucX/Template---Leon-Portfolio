@@ -246,7 +246,7 @@ html ,body {
 .services .services-content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+    gap: 30px;
     margin: var(--main-margin) 0;
 }
 
@@ -299,7 +299,7 @@ html ,body {
     width: 80px;
     height: calc(100% + 100px);
     top: -50px;
-    right: 20px;
+    right: 50px;
     z-index: -1;
 }
 
